@@ -5,6 +5,7 @@
 // @description No more forgetfulness
 // @author Érick Luiz F. Lopes - Programmer Compasso RG
 // @match https://outlook.office.com/owa/*
+// @match https://outlook.office365.com/owa/*
 // @require https://raw.githubusercontent.com/erickLFLopes/mentoringSemanal/master/dist/main.js
 // @grant GM_getValue
 // @grant GM_setValue
