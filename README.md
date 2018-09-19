@@ -1,4 +1,4 @@
-# mentoringSemanal
+# Week Mentoring
 Script help to the send of week mentoring
 
 To use, click in the link, copy the code and paste the into your tampermonkey
