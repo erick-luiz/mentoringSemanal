@@ -1,20 +1,15 @@
 # mentoringSemanal
-script help to  the send of week mentoring
+Script help to the send of week mentoring
 
-To use, paste the below code into your tampermonkey
+To use, click in the link, copy the code and paste the into your tampermonkey
+[Code](https://raw.githubusercontent.com/erickLFLopes/mentoringSemanal/master/Documentation/how_use.txt)
 
-// ==UserScript==
-// @name Weekly Mentoring
-// @namespace http://tampermonkey.net/
-// @version 0.1
-// @description No more forgetfulness
-// @author Érick Luiz F.L. - Programmer Compasso RG
-// @match https://outlook.office.com/owa/*
-// @require https://raw.githubusercontent.com/erickLFLopes/mentoringSemanal/master/temp.js
-// @require https://raw.githubusercontent.com/erickLFLopes/mentoringSemanal/master/dist/main.js
-// @grant GM_getValue
-// @grant GM_setValue
-// @grant GM_getResourceURL
-// @grant GM_addStyle
-// ==/UserScript==
+The version 1.0 have'll the flux bellow:
+![Weekly Mentoring ](https://raw.githubusercontent.com/erickLFLopes/mentoringSemanal/master/Documentation/BPMN.png)
 
+This is a simple script used for to help remember of the send mentoring weekly. 
+The Weekly Mentoring Script, all thursday, in your first access to email, open the window of wait and build the body of mentoring. 
+After the process of waiting the collaborator should insert the field 'for' and subject, and then send email. 
+This script open only in your first access, but the email will stay in the drafts.
+
+![App Example](https://raw.githubusercontent.com/erickLFLopes/mentoringSemanal/master/Documentation/sample.png)
