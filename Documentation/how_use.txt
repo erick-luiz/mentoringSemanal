@@ -1,3 +1,21 @@
+Version of prd 
+// ==UserScript==
+// @name Weekly Mentoring
+// @namespace http://tampermonkey.net/
+// @version 0.1
+// @description No more forgetfulness
+// @author Érick Luiz F. Lopes - Programmer Compasso RG
+// @match https://outlook.office.com/owa/*
+// @match https://outlook.office365.com/owa/*
+// @require https://raw.githubusercontent.com/erickLFLopes/mentoringSemanal/master/dist/main.js
+// @grant GM_getValue
+// @grant GM_setValue
+// @grant GM_getResourceURL
+// @grant GM_addStyle
+// ==/UserScript==
+
+
+version of tests 
 // ==UserScript==
 // @name Weekly Mentoring
 // @namespace http://tampermonkey.net/
@@ -6,7 +24,7 @@
 // @author Érick Luiz F. Lopes - Programmer Compasso RG
 // @match https://outlook.office.com/owa/*
 // @match https://outlook.office365.com/owa/*
-// @require https://raw.githubusercontent.com/erickLFLopes/mentoringSemanal/master/dist/main.js
+// @require https://raw.githubusercontent.com/erickLFLopes/mentoringSemanal/master/js/bundle.min.js
 // @grant GM_getValue
 // @grant GM_setValue
 // @grant GM_getResourceURL
