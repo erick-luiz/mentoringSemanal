@@ -1,0 +1,24 @@
+{
+  "name": "mentoringSemanal",
+  "version": "1.0.0",
+  "description": "Script help to the send of week mentoring",
+  "main": "temp.js",
+  "scripts": {
+    "minifierExec":"node js\\minifier.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erickLFLopes/mentoringSemanal.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erickLFLopes/mentoringSemanal/issues"
+  },
+  "homepage": "https://github.com/erickLFLopes/mentoringSemanal#readme",
+  "dependencies": {
+    "minifier": "^0.8.1"
+  }
+}
